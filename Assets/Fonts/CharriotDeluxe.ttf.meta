@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd4239fbd88c8494e9d3d93e213970af
+timeCreated: 1499447798
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Charriot Deluxe
+  fontNames:
+  - Charriot Deluxe
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
