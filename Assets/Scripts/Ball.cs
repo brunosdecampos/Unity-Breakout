@@ -44,9 +44,9 @@ public class Ball : MonoBehaviour {
 		direction = Vector3.Reflect (direction, normalVector);
 		direction.Normalize ();
 
-		if (collision.gameObject.tag == "Brick") {
-			Destroy (collision.gameObject);
+		if (collision.gameObject.tag == "Brick") {			
 			GameController.instance.IncrementScore ();
+			//Destroy (collision.gameObject);
 		}
 
 		if (collision.gameObject.tag == "Bottom") {

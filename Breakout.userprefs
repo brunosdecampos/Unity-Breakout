@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioController.cs">
     <Files>
-      <File FileName="Assets/Scripts/Ball.cs" Line="8" Column="25" />
-      <File FileName="Assets/Scripts/Brick.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="19" Column="2" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="49" Column="37" />
+      <File FileName="Assets/Scripts/Brick.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GameController.cs" Line="47" Column="36" />
-      <File FileName="Assets/Scripts/Paddle.cs" Line="41" Column="45" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
