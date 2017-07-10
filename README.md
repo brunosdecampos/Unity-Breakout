@@ -1,4 +1,4 @@
-# Unity-Breakout
+# Breakout
 
 
 <p align="center">
